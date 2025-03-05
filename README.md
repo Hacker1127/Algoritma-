@@ -46,6 +46,9 @@ Algoritmanın doğru çalışmasının çalışmadığını kontrol etmek ve ger
 Örnek Algoritma: Sayıların Toplamını Bulma
 Sorun: 1'den N'ye kadar olanın toplamını bulan bir yedekleme tas
 ___________________&___________&_______
+
+
+
 Giriş: N (Pozitif bir tam sayı)
 Çıkış: Toplam (1'den N'ye kadar olan toplamın toplamı
 Adımlar:
@@ -59,6 +62,9 @@ Adım 3'e geri dön
 Çıkış: Toplam
 Sahte kod:
 
+
+
+
 Kod
 Başla
   Toplam <- 0
@@ -70,6 +76,13 @@ Başla
   Döngü sonu
   Toplam'ı yazdır
 Bitiş
+
+
+
+
+
+
+
 ___________________&__________&_________
 
 Bu örnek, basit bir uygulamanın nasıl tasarlandığını ve eğitildiğini gösterir. Algoritmalar, karmaşık problemlerin çözümünde ve yazılım geliştirme sürecinde kritik bir role sahiptir.
